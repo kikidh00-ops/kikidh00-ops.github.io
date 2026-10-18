@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
-Sitemap: https://kikidh00-ops.github.io/jullnoonsketch/sitemap.xml
+
 Sitemap: https://kikidh00-ops.github.io/sitemap.xml
+Sitemap: https://kikidh00-ops.github.io/jullnoonsketch/sitemap.xml
